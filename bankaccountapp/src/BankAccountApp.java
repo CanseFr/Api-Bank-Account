@@ -4,7 +4,7 @@ import java.util.List;
 
 public class BankAccountApp {
     public static void main(String[] args) {
-
+ 
         List<Account> accounts = new LinkedList<Account>();
 
         String file = "C:\\C:\\Users\\julie\\OneDrive\\Documents\\Java\\3 API OOP\\Bank Account App\\NewBankAccounts.csv";
